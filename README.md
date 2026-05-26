@@ -3,7 +3,7 @@
 **Monitorización ambiental inteligente en la Región de Murcia**
 
 ## Descripción del Proyecto
-Este repositorio alberga el ecosistema tecnológico creado para la Situación de Aprendizaje **"Del Big Data al modelo predictivo: una propuesta a través de Google Colab para el tratamiento de bases de datos."**.
+Este repositorio alberga el ecosistema tecnológico creado para la Situación de Aprendizaje **"Del Big Data al modelo predictivo: una propuesta a través de Google Colab para el tratamiento de bases de datos"**.
 
 El proyecto trasciende el análisis convencional de estaciones físicas mediante el uso de datos satelitales del programa **Copernicus** (CAMS, ERA5 y EAC4). El objetivo es dotar al aula de Tecnología de 2º de Bachillerato de herramientas avanzadas de **Data Science** e **Inteligencia Artificial**, transformando a los alumnos de usuarios pasivos en desarrolladores activos de soluciones técnicas frente al cambio climático.
 
