@@ -17,7 +17,10 @@ Debido a que el dataset completo supera los **90 GB**, los archivos no se encuen
 2. **Vincular a tu Drive:** Haz clic en el nombre de la carpeta en la parte superior (`Datasets Proyecto Murcia`) y selecciona la opción **"Añadir acceso directo a Drive"**.
 3. **Ubicación:** Selecciona **"Mi unidad"** como destino.
    > **Nota importante:** Este proceso no copia los archivos a tu cuenta ni consume tu espacio de almacenamiento (los 15GB gratuitos). Solo crea un "puente" para que Google Colab pueda leer los archivos de 30GB y 60GB directamente desde la nube.
-
+4. **Copia los ficheros:** En esta carpeta aparecen dos ficheros:
+   > **Murcia_Dataset_Completo_Global_1H.parquet** Registros cada hora con los valores de las variables atmosféricas.
+   > **Murcia_Dataset_Completo_Global_3H.parquet** Registros cada 3 horas con los valores de las variables atmosféricas. Estos valores resultan de aplicar la media entre el valor de la hora antes, la correspondiente y la siguiente.
+5. **Modifica la ruta:** Cambia la ruta en el cuaderno para que lea este archivo de la nueva ubicación donde se ha copiado. 
 ---
 
 ## Ejes Fundamentales
