@@ -3,7 +3,7 @@
 **Monitorización ambiental inteligente en la Región de Murcia**
 
 ## Descripción del Proyecto
-Este repositorio alberga el ecosistema tecnológico creado para la Situación de Aprendizaje **"Del Big Data al modelo predictivo: Implementación de un ecosistema en Google Colab para la monitorización ambiental inteligente en la Región de Murcia"**.
+Este repositorio alberga el ecosistema tecnológico creado para la Situación de Aprendizaje **"Del Big Data al modelo predictivo: una propuesta a través de Google Colab para el tratamiento de bases de datos."**.
 
 El proyecto trasciende el análisis convencional de estaciones físicas mediante el uso de datos satelitales del programa **Copernicus** (CAMS, ERA5 y EAC4). El objetivo es dotar al aula de Tecnología de 2º de Bachillerato de herramientas avanzadas de **Data Science** e **Inteligencia Artificial**, transformando a los alumnos de usuarios pasivos en desarrolladores activos de soluciones técnicas frente al cambio climático.
 
@@ -28,7 +28,6 @@ Debido a que el dataset completo supera los **90 GB**, los archivos no se encuen
 ## Componentes Técnicos
 - `/src`: *Scripts* de Python para la interactuación con las APIs científicas de Copernicus.
 - `/notebooks`: Entornos de **Google Colab** configurados con el "Laboratorio de Datos" para el modelado predictivo.
-- `/assets`: Recursos visuales y diagramas de flujo del proceso de Aprendizaje Basado en Proyectos (ABP).
 
 ## Tecnologías y Herramientas
 * **Lenguajes:** Python.
@@ -37,4 +36,4 @@ Debido a que el dataset completo supera los **90 GB**, los archivos no se encuen
 * **Librerías:** `pandas` (gestión de datos), `scikit-learn` (Machine Learning), `tensorflow`/`keras` (redes neuronales).
 
 ## Contribución Académica
-Este desarrollo forma parte del Trabajo Fin de Máster (TFM) del *Máster Universitario en Formación del Profesorado de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional, Enseñanzas de Idiomas y Enseñanzas Artísticas* (Especialidad en Tecnología).
+Este desarrollo forma parte del Trabajo Fin de Máster (TFM) del *Máster Universitario en Formación del Profesorado de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional, Enseñanzas de Idiomas y Enseñanzas Artísticas* (Especialidad en Tecnología) del curso 2025-2026.
